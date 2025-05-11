@@ -3,7 +3,7 @@ pipeline {
 
     tools {
         maven 'Maven 3.9.9'
-        jdk 'Amazon Corretto 17'
+        jdk 'Amazon Corretto JDK 17'
     }
 
     stages {
